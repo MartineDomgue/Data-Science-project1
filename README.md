@@ -57,8 +57,23 @@ The data was provided in `.tsv` format and loaded into a Pandas DataFrame for an
 
 ## 📂 File Structure
 
-📦 diabetes-analysis/
+📦 Data-Science-project1/
 ├── diabetes_data.tsv # The dataset
 ├── analysis.ipynb # Jupyter notebook with all tasks
 ├── README.md # This file
+
+
+---
+
+## 📌 How to Run
+
+1. Clone this repository or download the files.
+2. Open the `analysis.ipynb` notebook in Jupyter or VS Code.
+3. Run all cells to reproduce the analysis and plots.
+
+---
+
+## 📄 License
+
+This project is for educational and analytical purposes. Please contact the author for usage beyond personal or academic projects.
 
